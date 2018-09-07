@@ -1,33 +1,19 @@
 {
-   "Categories": 
-        [
-            {
-                "name": "Retrospective"
-            },
-            {
-                "name": "Ethnic"
-            },
-           {
-                "name": "Fashionista"
-            },
-           {
-                "name": "Sexy"
-            }
-        ],
+   
    "Wallpapers": [
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha1.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha1_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Retrospective"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha2.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha2_thumb.jpg",
          "name": "Dsiha Patani",
-         "category": "Fashionista"
+         
       },
       {
          "author": "UIDH",
@@ -41,14 +27,14 @@
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha4.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha4_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Retrospective"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha5.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha5_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
@@ -69,14 +55,14 @@
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha8.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha8_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+        
       },
        {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha9.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha9_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Retrospective"
+        
       },
       {
          "author": "UIDH",
@@ -90,21 +76,21 @@
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha11.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha11_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+        
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha12.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha12_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha13.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha13_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
@@ -118,42 +104,42 @@
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha15.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha15_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha16.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha16_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+        
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha17.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha17_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha18.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha18_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha19.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha19_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Fashionista"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha20.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha20_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
@@ -167,35 +153,35 @@
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha22.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha22_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+        
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha23.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha23_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Fashionista"
+        
       },
        {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha24.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha24_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha25.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha25_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+        
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha27.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha27_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Retrospective"
+         
       },
       {
          "author": "UIDH",
@@ -209,63 +195,63 @@
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha29.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha29_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Retrospective"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha30.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha30_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Retrospective"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha31.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha31_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+        
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha32.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha32_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+         
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha33.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha33_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+       
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha34.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha34_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+        
       },
       {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha35.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha35_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Ethnic"
+        
       },
        {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha36.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha36_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+        
       },
        {
          "author": "UIDH",
          "url": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha37.jpg",
          "thumbUrl": "https://raw.githubusercontent.com/uidhinc/DishaPatani/master/Disha37_thumb.jpg",
          "name": "Disha Patani",
-         "category": "Sexy"
+         
       }
       
       
